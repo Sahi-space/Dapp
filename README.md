@@ -16,7 +16,7 @@ Import the ganache local blockchain accounts in metamask using the mnemonic prov
 Clone the repo
 
 ```bash
-git clone https://github.com/codeTIT4N/supply-chain-truffle-react.git
+git clone https://github.com/Sahi-space/dapp.git
 cd supply-chain-truffle-react
 ```
 
